@@ -1,5 +1,7 @@
 # react-express-skeleton #
 
+Build with help from http://andrewhfarmer.com/build-your-own-starter
+
 Setup
 ---
  
