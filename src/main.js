@@ -1,2 +1,1 @@
-const foo = "Foo";
-console.log(foo);
+console.log("Hello World!")
